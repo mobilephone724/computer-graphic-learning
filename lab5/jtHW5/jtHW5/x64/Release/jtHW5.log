@@ -1,0 +1,22 @@
+﻿  PathTracer.cpp
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\vec3.h(51,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\material.h(71,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\material.h(102,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\hitablelist.h(23,30): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\camera.h(21,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(18,5): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(41,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(42,15): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(42,64): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(52,81): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(81,79): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(114,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(132,21): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(180,17): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(180,42): warning C4018: “>=”: 有符号/无符号不匹配
+  正在生成代码
+  2 of 79 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  jtHW5.vcxproj -> C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\x64\Release\jtHW5.exe

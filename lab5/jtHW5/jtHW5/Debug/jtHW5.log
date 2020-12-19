@@ -1,0 +1,21 @@
+﻿  jtHW5.cpp
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.h(35,59): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.h(35,59): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+  PathTracer.cpp
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.h(35,59): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.h(35,59): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(44,4): error C2065: “vec3”: 未声明的标识符
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(44,9): error C2146: 语法错误: 缺少“;”(在标识符“color”的前面)
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(44,9): error C2065: “color”: 未声明的标识符
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(45,4): error C2065: “color”: 未声明的标识符
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(46,4): error C2065: “color”: 未声明的标识符
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(47,4): error C2065: “color”: 未声明的标识符
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(48,24): error C2065: “color”: 未声明的标识符
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(61,70): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(61,70): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(64,17): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(64,42): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(70,56): error C2065: “color”: 未声明的标识符
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(72,56): error C2065: “color”: 未声明的标识符
+C:\Users\DELL\Documents\xuexi\计算机图形学\作业\作业5\jtHW5\jtHW5\PathTracer.cpp(74,56): error C2065: “color”: 未声明的标识符
+  正在生成代码...

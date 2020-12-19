@@ -1,0 +1,3 @@
+/mnt/hgfs/code/computer_graphic/lab/lab6/code/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/code/computer_graphic/lab/lab6/code/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/code/computer_graphic/lab/lab6/code/build/CMakeFiles/BezierCurve.dir

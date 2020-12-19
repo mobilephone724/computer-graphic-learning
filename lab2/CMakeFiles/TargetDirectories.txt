@@ -1,0 +1,3 @@
+/home/yby/Documents/code/code/computer_graphic/lab/lab2/CMakeFiles/rebuild_cache.dir
+/home/yby/Documents/code/code/computer_graphic/lab/lab2/CMakeFiles/edit_cache.dir
+/home/yby/Documents/code/code/computer_graphic/lab/lab2/CMakeFiles/Rasterizer.dir
